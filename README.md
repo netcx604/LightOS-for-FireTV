@@ -1,5 +1,5 @@
 # LightOS for Fire TV
-(Disclaimer: Ai was Used in Creation of this Project!)
+> **Disclaimer:** AI was used in the creation of this project.
 LightOS is a lean, ad-free, Apple-TV-style home screen for Amazon Fire TV
 devices – with an app dock, a dynamic hero area, custom Apps/Settings views,
 app reordering and a minimal service profile.

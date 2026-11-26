@@ -1,0 +1,8 @@
+model=AFTT
+device=tank
+fireos=Fire OS 5.2.9.5 (688806320)
+build=288.6.8.8_user_688806320
+android=5.1.1
+sdk=22
+serial=<SERIAL>
+kernel=Linux version 3.10.54+ (build@i3-ri-14-use1a-b-16-04-fos-17) (gcc version 4.8 (GCC) ) #1 SMP PREEMPT Sun Apr 27 22:14:52 UTC 2025

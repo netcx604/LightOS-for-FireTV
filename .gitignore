@@ -1,0 +1,20 @@
+# Large or proprietary files (kept locally, not in this repository)
+original-backup/*.zip
+apk/com.amazon.vizzini.apk
+apk/FTVLaunchX-1.0.1.apk
+
+# Local full-package archives
+LightOS.zip
+LightOS.zip.sha256
+
+# Build artifacts
+src/build/
+src/*.idsig
+
+# Local signing/build artifacts
+src/keystore.jks
+src/*.apk
+
+# Python cache
+__pycache__/
+*.pyc

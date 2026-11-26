@@ -1,0 +1,4 @@
+com.amazon.firetv.youtube
+com.amazon.ftv.glorialist
+com.netflix.ninja
+de.customtv.start
